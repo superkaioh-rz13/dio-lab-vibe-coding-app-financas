@@ -209,3 +209,9 @@ Gerar:
 Tudo com explicações simples, educativas e diretas.
 
 ---
+<img width="1303" height="917" alt="image" src="https://github.com/user-attachments/assets/b191ff93-bac4-4acb-80d7-09e1149ba17f" />
+<img width="1032" height="858" alt="image" src="https://github.com/user-attachments/assets/7a133363-99ca-48ab-9021-81bd9e6c9abb" />
+<img width="1030" height="503" alt="image" src="https://github.com/user-attachments/assets/94b24585-cb25-4ad3-ae3d-4f2d71d37153" />
+<img width="1025" height="823" alt="image" src="https://github.com/user-attachments/assets/1aedd517-9f82-4803-a720-0befff783c92" />
+
+
