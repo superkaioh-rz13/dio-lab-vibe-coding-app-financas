@@ -209,9 +209,19 @@ Gerar:
 Tudo com explicações simples, educativas e diretas.
 
 ---
+Prints App Lovable
 <img width="1303" height="917" alt="image" src="https://github.com/user-attachments/assets/b191ff93-bac4-4acb-80d7-09e1149ba17f" />
 <img width="1032" height="858" alt="image" src="https://github.com/user-attachments/assets/7a133363-99ca-48ab-9021-81bd9e6c9abb" />
 <img width="1030" height="503" alt="image" src="https://github.com/user-attachments/assets/94b24585-cb25-4ad3-ae3d-4f2d71d37153" />
 <img width="1025" height="823" alt="image" src="https://github.com/user-attachments/assets/1aedd517-9f82-4803-a720-0befff783c92" />
+
+Prints App HTML
+<img width="942" height="919" alt="image" src="https://github.com/user-attachments/assets/ee2cad82-e2d6-4615-b9b8-4418e76769b5" />
+<img width="917" height="905" alt="image" src="https://github.com/user-attachments/assets/870c53c0-25cf-4dfb-adb0-fcd714d8a40a" />
+<img width="934" height="595" alt="image" src="https://github.com/user-attachments/assets/24108c8f-96fb-439f-831c-510c58188ce2" />
+<img width="933" height="557" alt="image" src="https://github.com/user-attachments/assets/9e46d9f5-a7ed-478a-8002-301e3a312cfe" />
+
+
+
 
 
